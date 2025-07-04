@@ -257,7 +257,7 @@ function App() {
             <div className="mt-6 p-4 bg-white rounded-lg border border-blue-200">
               <p className="text-blue-800 flex items-center">
                 <Shield className="w-4 h-4 mr-2" />
-                <strong>Personvern: </strong> Alle dokumenter prosesseres lokalt i nettleseren. 
+                <strong>Personvern: </strong>&nbsp; Alle dokumenter prosesseres lokalt i nettleseren. 
                 Ingen data sendes til eksterne servere.
               </p>
             </div>
